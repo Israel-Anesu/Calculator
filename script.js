@@ -10,7 +10,7 @@ const clearScreen = () => {
   previousAction = 'clear'
 }
 
-// All buttons
+// Buttons
 let buttons = Array.from(document.querySelectorAll('.buttons>button'))
 buttons.forEach(button => {
   if (button.id === 'delete') {
@@ -60,7 +60,7 @@ buttons.forEach(button => {
   }
 })
 
-// Equals button
+// Evaluation Button
 let equalsButton = document.getElementById('equals')
 equalsButton.addEventListener('click', () => {
   let expr = document.getElementById('expr').textContent,
