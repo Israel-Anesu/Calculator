@@ -46,6 +46,3 @@ const evaluate = (node) => {
     return calculator(node.text, node.leftChild, node.rightChild)
   return parseFloat(node.node)
 }
-
-//let tree = parse(test)
-//console.log(evaluate(tree))
