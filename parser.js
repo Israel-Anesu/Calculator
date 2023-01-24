@@ -139,7 +139,7 @@ let operatorList = {
       }
     }   
     
-    // Regular Expession Evaluation
+    // Regular Expessions Evaluation
     if (nums === 0)
       throw 'SyntaxError' 
   
