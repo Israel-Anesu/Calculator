@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <div align="center">  
-    <img src="./assets/images/calculator.png" alt="Logo" width="150">
+    <img src="./assets/img/calculator.png" alt="Logo" width="150">
 
 <h3 align="center">Calculator App</h3>
 
